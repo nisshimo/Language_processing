@@ -1,10 +1,8 @@
 """
-Q 0r10. パタトクカシー
+Q 01. パタトクカシー
 """
 
-a = "パタトクカシー-"
-result = a[1::2]
+word = "パタトクカシー-"
+result = word[1::2]
 
 print("result", result)
-
-

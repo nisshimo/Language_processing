@@ -7,7 +7,6 @@ def minus_one(n):
 def plus_one(n):
     return n + 1
 
-
 head_index_list = list(map(minus_one, [1, 5, 6, 7, 8, 9, 15, 16, 19]))
 
 w = "Hi He Lied Because Boron Could Not Oxidize Fluorine. New Nations Might Also Sign Peace Security Clause. Arthur King Can.".split()
